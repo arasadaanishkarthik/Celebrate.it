@@ -9,6 +9,7 @@ This repository is an **independent public showcase version** of an editorial st
 ## ✨ Features
 
 - **Cinematic Hero**: Letter-by-letter kinetic typography, GPU-accelerated parallax, and progressive blur-up image reveal.
+  
 - **Chapter Storytelling**: Structured narrative chapters with fluid scroll navigation powered by Lenis smooth scrolling.
 - **Living Memory Carousel (Chapter II)**: Asymmetric 7-card horizontal film strip stream with auto-progression, interactive drag/swipe gestures, and zero photo duplication.
 - **Moments in Motion (Chapter III)**: Synchronized video showcase with intelligent autoplay and smooth layout swapping between featured and secondary films.
@@ -52,6 +53,7 @@ npm run dev
 `
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+
 ### 4. Build for production
 `ash
 npm run build
@@ -65,6 +67,7 @@ This command compiles the Vite bundle and runs scripts/postbuild.js to prepare a
 This repository was created as an isolated, public demonstration project:
 - **Zero Family Media**: All original photographs and personal family videos were excluded prior to initialization.
 - **Independent Git Tree**: Initialized with a completely fresh commit history and separate remote origin.
+- Genuine cyber has inherited with the Krishn grinder fitness
 - **Demo Media**: Powered by royalty-free demo photography and CC0 public domain video streams.
 
 ---
